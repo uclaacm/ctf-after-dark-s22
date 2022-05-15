@@ -1,0 +1,13 @@
+slug = "tyrannosaurus-rax"
+title = "Tyrannosaurus RAX"
+author = "Nik"
+value = 35
+description = """Scientists made a groundbreaking recalculation of the speed of the meteor that brutally murdered the dinosaurs! The original paper was put behind a paywall, though, so all we have to work with is the assembly file they used to calculate the number. The T-RAX demolishing velocity is in the RAX register right before [the program](t-rax.asm) ends. What is that value in hex?
+
+Note: this challenge is in Intel syntax, not AT&T syntax! You may find it helpful to [read about the difference between the two](https://users.cs.jmu.edu/adamses/Web/CS430/CodeExamples/pp/doc/prog/progsu70.html) or [rewatch](https://www.youtube.com/watch?v=xY78RDXSLd4) our first workshop of the quarter.
+
+Want one more hint? The [Wolfram calculator](https://www.wolframalpha.com/) will compute complex binary and hexadecimal calculations for you (for example, 101101b + 0x8f3e02 / 8293)"""
+tags = ["assembly"]
+files = ["t-rax.asm"]
+flag = "flag{9b175bd4e5d387d8}"
+enabled = true
