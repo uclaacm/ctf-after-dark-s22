@@ -1,0 +1,9 @@
+slug = "void"
+title = "Void"
+author = "Laura"
+value = 15
+description = """I tried using a discount code to buy some ACM Cyber merch, but it looks like the coupon’s [void](void). Think you can help me hack into the website and get me that discount?"""
+tags = [ "overflow" ]
+files = ["void"]
+flag = "flag{th3_v0id_scr3ams_b4ck}"
+enabled = true
