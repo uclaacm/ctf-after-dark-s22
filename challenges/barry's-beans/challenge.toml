@@ -1,0 +1,9 @@
+slug = "barry's-beans"
+title = "Barry's Beans"
+author = "Laura"
+value = 20
+description = """Basically, Barry brought [beans](bean) back from Barcelona, but barely any beans are the best base for baked beans, and Barry can’t bear other types of bean meals! Barry bought 64 whole bags of beans, too… Help Barry bring the beans back to Barcelona!"""
+tags = [ "overflow" ]
+files = ["bean"]
+flag = "flag{b3ans_b3ans_n0thing_but_b3ans}"
+enabled = true
