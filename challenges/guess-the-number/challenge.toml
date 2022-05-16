@@ -1,0 +1,10 @@
+slug = "guess-the-number"
+title = "Guess the Number"
+author = "Juliet"
+value = 15
+description = """I found a website that'll give you $10 if you guess the right number. Idk it's kinda sketchy and seems like a scam, but I was able to find the [assembly file](numberChecker.asm) for the number checker, so let's give it a try.
+Note: The flag will be in the format flag{correctNumber}."""
+tags = [ "assembly" ]
+files = ["numberChecker.asm"]
+flag = "flag{12934982}"
+enabled = true
