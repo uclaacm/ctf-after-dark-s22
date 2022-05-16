@@ -1,0 +1,9 @@
+slug = "backup"
+title = "Backup"
+author = "Rory"
+value = 25
+description = """This [file](backup) won most secure of the year back in its time"""
+tags = ["binary"]
+files = ["backup"]
+flag = "flag{1M4gE1NEn07gE771NgY0ur5HeLLC0deCh4LLenGE570W0RkLMAO}"
+enabled = true
