@@ -1,0 +1,9 @@
+slug = "bad-merchant"
+title = "Bad Merchant"
+author = "Jerry"
+value = 35
+description = """I always told myself that I would make my mark on the world, causing people eons later to still remember my [name](copper)."""
+tags = ["binary"]
+files = ["copper"]
+flag = "flag{ea_nasir_is_a_bad_merchant}"
+enabled = true
