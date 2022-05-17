@@ -1,0 +1,9 @@
+slug = "onions"
+title = "Onion"
+author = "loltyler1dotcom-discount-code-alpha"
+value = 20
+description = """Ogres are like onions. Enough said. Peel back the layers of ogre to reveal the [core] (onion.jpg). (Hint: stegosaurus suck at playing hide and seek)"""
+tags = [ "file" ]
+files = ["onion.jpg"]
+flag = "flag{oGr3s_are_l1k3_0nion5}"
+enabled = true

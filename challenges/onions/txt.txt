@@ -1,0 +1,19 @@
+zip steg
+flag: flag{oGr3s_are_l1k3_0nion5}
+rsa: AA7JujnqBWPwkef6rKmSuXcUfmz6W5Nx59Oy5rReCSdu/e+wAnXj0M7FsLpHEcOhSXpEejAsji2lDiScdNKIUKyFVM5Nc2EXfeKnz+NPWQvVejxg+xiC1TE6k2uxxCzK/Z2ubdnhWgao+HUn0aERUbizqmkkMQ2dwo/6sDAwtDE=
+
+shrek.png steg
+decoy: Morse -> affine a9 b11 -> baconian
+decoy: .... . .-. . .----. ... / .- / ..-. ..-. ..-. ..-. ..-. .. -. . / -.-. .. .--. .... . .-. / ..-. --- .-. / -.-- --- ..- ---... / .-.. / -. .. ...- .-.. .- / --.- ..-. -. / .... -.-- -.. ...- / .-. .-.. ..-. -- ---... / .-.. .-.. ..- ..- ..- .-.. .-.. .-.. .-.. .-.. / .-.. .-.. ..- ..- .-.. .-.. .-.. ..- .-.. .-.. ..- .-.. .-.. ..- ..- / .-.. .-.. .-.. .-.. ..- .-.. .-.. .-.. .-.. .-.. .-.. ..- .-.. .-.. .-.. ..- .-.. .-.. ..- ..- .-.. .-.. ..- .-.. .-.. .-.. .-.. .-.. ..- ..-
+
+shrek.png metadata
+fake flag: flag{is_th1s_a_s3cure_p@$$w0rd}
+vigenere key: tsa/fbi/cia/nsa/obama cipher: ydal{ja_vp1s_n_k3cise_b@$$w0kv}
+ROT13 Urer'f n pvcure sbe lbh. Erpragyl gur "gfn/sov/pvn/afn/bonzn" unir orra bagb uvz: lqny{wn_ic1f_a_x3pvfr_o@$$j0xi}
+Base64: VXJlcidmIG4gcHZjdXJlIHNiZSBsYmguIEVycHJhZ3lsIGd1ciAiZ2ZuL3Nvdi9wdm4vYWZuL2JvbnpuIiB1bmlyIG9ycmEgYmFnYiB1dno6IGxxbnl7d25faWMxZl9hX3gzcHZmcl9vQCQkajB4aX0=
+
+
+
+plan: decoy -> shrek.png
+rsa-> layer.zip -> shrek.png
+fake flag -> shrek.png = layer.zip passwd
