@@ -3,7 +3,7 @@ title = "Mysterious Trio"
 author = "Salma"
 value = 30
 description = """You are given the assembly code for three functions (the source code for which has since been lost to time). Asthing2e that thing1 is called with the parameters 42 and 6 (thing1(42, 6)).  
-Analyze this assembly to determine the return values of function thing2 and function thing3 as they are called within thing1. 
+Analyze this [assembly](mysteriousTrio.s) to determine the return values of function thing2 and function thing3 as they are called within thing1. 
 Format your flag as flag{thing2Value_thing3Value}. PS. enjoy the recursion"""
 tags = ["assembly"]
 files = ["mysteriousTrio.s"]
