@@ -1,9 +1,0 @@
-slug = "hostage-situation"
-title = "Hostage Situation"
-author = "Rory"
-value = 60
-description = """ Oh noooo, after you defeated the supervillan in the seasnet server, he came back for revenge!!!! Now he's holding several people hostage and threatening to blow up a binary bomb!!!! See if you can ATTACK him and free the hostages before its too late. nc personal-ctf-challenges.herokuapp.com 1337"""
-tags = ["overflow"]
-files = []
-flag = "flag{y0u_54v3d_7h3_h057493}"
-enabled = true
